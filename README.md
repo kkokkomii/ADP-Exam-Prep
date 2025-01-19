@@ -8,17 +8,6 @@
 - 📊 **샘플 데이터 분석 프로젝트와 사례 연구**
 - 📂 **ADP 시험 커리큘럼에 맞게 구성된 자료**
 
-
-
-# ADP-Exam-Prep
-"ADP-Exam-Prep" is a collection of materials created during the preparation process for the Data Analysis Professional (ADP) certification, a private certification.  
-This repository includes study materials, practice problems, notes, and insights developed through personal learning, with the ultimate goal of passing the certification exam successfully.
-
-## Key Features
-- 📘 **Summary notes on key topics**
-- 📝 **Practice problems and solutions**
-- 📊 **Sample data analysis projects and case studies**
-- 📂 **Resources organized according to the ADP exam curriculum**
   
 Feel free to clone, contribute, and share your knowledge to help others prepare effectively! 🚀
 
